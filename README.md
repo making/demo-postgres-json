@@ -18,5 +18,5 @@ curl -s -H "Content-Type: application/json" -w '\n' localhost:8080/data -d '{"fo
 curl -s -H "Content-Type: application/json" -w '\n' localhost:8080/data -d '{"role":"author", "name": "bar", "books":["baz"]}'
 
 curl -s -w '\n' localhost:8080/authors/1
-curl -s -w '\n' localhost:8080/authors/2 
+curl -s -w '\n' localhost:8080/authors/3
 ```
