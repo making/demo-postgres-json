@@ -1,3 +1,7 @@
+# Demo using different models for read and write using PostgreSQL JSON type and VIEW
+
+https://twitter.com/benjiweber/status/1373362733467455489?s=20
+
 ```
 docker run --rm \
  -p 5432:5432 \
